@@ -176,7 +176,7 @@ section .title::after{
 @media screen and ( max-width:500px) {
     
     .home{
-        background-position: -75rem ;
+        background-position: -73rem ;
         background-color: black;
     }
 }
